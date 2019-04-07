@@ -1,8 +1,8 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
+title:  "A Day In The Life Of a Developer"
+subtitle: "It was always going to have its ups and downs."
 author: "George Marriott"
-avatar: "img/authors/gmarriott.png"
+avatar: "img/authors/gmarriott.jpg"
 image: "img/f.jpg"
 date:   2019-04-06 12:12:12
 ---

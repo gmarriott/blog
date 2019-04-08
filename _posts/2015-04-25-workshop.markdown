@@ -1,14 +1,11 @@
 ---
-title:  "A Day In The Life Of a Developer"
-subtitle: "It was always going to have its ups and downs."
+title:  "Remote Working - Showing Trust in your developers"
+subtitle: "How remote working is a sign of trust."
 author: "George Marriott"
 avatar: "img/authors/gmarriott.jpg"
 image: "img/f.jpg"
 date:   2019-04-06 12:12:12
 ---
 
-### Initial Test post
-This is an initial test post to test out the blog markdown content capabilities.
-
-### A common phrase for all web developers.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Coming Soon
+Currently in the process of finalising an article I wrote on remote working and how for developers it's a massive way of a company showing trust in the developers. 
